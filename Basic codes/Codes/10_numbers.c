@@ -7,3 +7,4 @@ int main()
     printf("%f,%f,%f \n%f,%f,%f \n%f,%f,%f\n%f",a,b,c,d,e,f,g,h,i,j);
     return 0;
 }
+abcd
